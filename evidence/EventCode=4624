@@ -1,0 +1,46 @@
+3/6/26 10:59:41.743 AM
+03/06/2026 10:59:41.743 AM
+LogName=Security
+EventCode=4688
+EventType=B
+ComputerName=WIN-UHV6Q2LSDR8
+SourceName-Microsoft Windows security auditing.
+Type=Information
+RecordNumber=26576
+Keywords=Audit Success
+TaskCategory=Process Creation
+OpCode=Info
+Message=A new process has been created.
+Creator Subject:
+Security ID:
+Account Name:
+Account Domain:
+Logon ID:
+5-1-5-18
+一
+一
+0X3E7
+Target Subject:
+Security ID:
+Account Name:
+Account Domain:
+Logon ID:
+5-1-0-0
+一
+一
+0x0
+Process Information:
+
+New Process ID:
+0x354
+New Process Name:
+C:\Windows\System32\lsass.exe
+
+Token Elevation Type: TokenElevationTypeDefault (1)
+Mandatory Label:
+5-1-16-16384
+Creator Process ID:
+0x29c
+
+Creator Process Name: C:\Windows\System32\wininit.exe
+Process Command Line:
