@@ -1,7 +1,7 @@
 # Splunk Login Event Investigation
 
 ## Objective
-Analyze Windows authentication events in Splunk to identify and assess privileged login activity and determine whether the behavior appears expected or potentially risky.
+Analyze Windows authentication events in Splunk to identify and assess privileged login activity and determine whether the behavior appears expected or potentially high risk.
 
 ## Scenario
 This project reviews Windows Event Logs in Splunk, focusing on successful authentication events and privileged access assignments. The goal is to evaluate how elevated access is granted and whether such activity warrants further investigation.
